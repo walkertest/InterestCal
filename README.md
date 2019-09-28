@@ -11,3 +11,8 @@
 # 原理
 ## 等额本金.
 
+
+
+# 参考
+https://github.com/djl654321/calc_carcredits/blob/master/%E8%BD%A6%E8%B4%B7%E8%AE%A1%E7%AE%97.py
+
